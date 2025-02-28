@@ -1,0 +1,35 @@
+{
+    "name":"Formula 1",
+    "season": "2025",
+    "grandprix": [
+        {
+            "id": 1,
+            "name": "Pre Season Testing",
+            "place": "Bahrain",
+            "end_date": "1740758400",
+            "widget_type": "other",
+            "session": {
+                "Day 1, Session 1": "1740553200",
+                "Day 1, Session 2": "1740567600",
+                "Day 2, Session 1": "1740639600",
+                "Day 2, Session 2": "1740654000",
+                "Day 3, Session 1": "1740726000",
+                "Day 3, Session 2": "1740740400"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Australia",
+            "place": "Melbourne",
+            "end_date": "1740758400",
+            "widget_type": "other",
+            "session": {
+                "Practice 1": "1740553200",
+                "Practice 2": "1740567600",
+                "Practice 3": "1740639600",
+                "Qualifying": "1740654000",
+                "Race": "1740726000"
+            }
+        }
+    ]
+}
