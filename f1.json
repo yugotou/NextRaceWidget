@@ -21,14 +21,14 @@
             "id": 2,
             "name": "Australia",
             "place": "Melbourne",
-            "end_date": 1740758400,
+            "end_date": 1742122800,
             "widget_type": "race",
             "session": {
-                "Practice 1": 1740553200,
-                "Practice 2": 1740567600,
-                "Practice 3": 1740639600,
-                "Qualifying": 1740654000,
-                "Race": 1740726000
+                "Practice 1": 1741915800,
+                "Practice 2": 1741928400,
+                "Practice 3": 1742002200,
+                "Qualifying": 1742014800,
+                "Race": 1742097600
             }
         }
     ]
