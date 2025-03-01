@@ -1,0 +1,19 @@
+{
+    "name":"Super Formula",
+    "season": "2025",
+    "grandprix": [
+        {
+            "id": 1,
+            "name": "Rd.1 Suzuka",
+            "place": "Melbourne",
+            "end_date": 1741604400,
+            "widget_type": "race",
+            "session": {
+                "Free Practice 1": 1741482600,
+                "Qualifying": 1741500300,
+                "Free Practice 2": 1741565400,
+                "Race": 1741585500
+            }
+        }
+    ]
+}

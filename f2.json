@@ -1,0 +1,32 @@
+{
+    "name":"Formula 2",
+    "season": "2025",
+    "grandprix": [
+        {
+            "id": 1,
+            "name": "Australia",
+            "place": "Melbourne",
+            "end_date": 1742122800,
+            "widget_type": "race",
+            "session": {
+                "Practice": 1741906800,
+                "Qualifying": 1741933800,
+                "Sprint Race": 1742008500,
+                "Feature Race": 1742085000
+            }
+        },
+        {
+            "id": 2,
+            "name": "Bahrain",
+            "place": "Sakhir",
+            "end_date": 1744556400,
+            "widget_type": "race",
+            "session": {
+                "Practice": 1744362300,
+                "Qualifying": 1744379700,
+                "Sprint Race": 1744467300,
+                "Feature Race": 1744543500
+            }
+        }
+    ]
+}
