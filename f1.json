@@ -6,7 +6,7 @@
             "id": 1,
             "name": "Pre Season Testing",
             "place": "Bahrain",
-            "end_date": 1740758400,
+            "start_time": 0,
             "widget_type": "other",
             "session": {
                 "Day 1, Session 1": 1740553200,
@@ -21,7 +21,7 @@
             "id": 2,
             "name": "Australia",
             "place": "Melbourne",
-            "end_date": 1742122800,
+            "start_time": 1740758400,
             "widget_type": "race",
             "session": {
                 "Practice 1": 1741915800,

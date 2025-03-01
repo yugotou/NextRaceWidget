@@ -6,7 +6,7 @@
             "id": 1,
             "name": "Rd.1 Suzuka",
             "place": "Melbourne",
-            "end_date": 1741604400,
+            "start_time": 0,
             "widget_type": "race",
             "session": {
                 "Free Practice 1": 1741482600,

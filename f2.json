@@ -6,7 +6,7 @@
             "id": 1,
             "name": "Australia",
             "place": "Melbourne",
-            "end_date": 1742122800,
+            "start_time": 0,
             "widget_type": "race",
             "session": {
                 "Practice": 1741906800,
@@ -19,7 +19,7 @@
             "id": 2,
             "name": "Bahrain",
             "place": "Sakhir",
-            "end_date": 1744556400,
+            "start_time": 1742122800,
             "widget_type": "race",
             "session": {
                 "Practice": 1744362300,
